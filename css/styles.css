@@ -1,0 +1,69 @@
+body{
+  height: 100vh;
+  background-color: pink;
+}
+.container-fluid{
+    text-align: center;
+}
+.outer{
+  background-color:yellow;
+  padding: 50px;
+  border: 2px solid #000;
+}
+.pre-offset{
+  background-color:green;
+   border: 2px solid #000;
+}
+.offset{
+  background-color:pink;
+   border: 1px solid #000;
+}
+.navigation{
+  background-color:#add8e6;
+  border: 1px solid #000;
+  padding: 25px
+}
+.jumbo1{
+  background-color:teal;
+  border: 2px solid #000;
+}
+.star{
+  background-color:blue;
+  color:white;
+  text-align: center;
+  border: 1px solid #000000;
+}
+.star2{
+  background-color:white;
+  color: blue;
+  text-align: center;
+  border: 1px solid #000000;
+}
+.stripe{
+  background-color:red;
+  color:white;
+  text-align: center;
+  border: 1px solid #000000;
+}
+.stripe-white{
+  background-color:white;
+  color:blue;
+  text-align: center;
+  border: 1px solid #000000;
+}
+.content{
+  background-color:red;
+  border: 2px solid #000;
+}
+.aside{
+  background-color:black;
+  border: 2px solid #000;
+}
+.footer{
+  background-color:#80cd32;
+  border: 2px solid #000;
+}
+.promo{
+  background-color:yellow;
+  border: 2px solid #000;
+}
